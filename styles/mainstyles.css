@@ -1,0 +1,54 @@
+
+
+header {
+	background: black url(../photos/844930-longboard-wallpaper.jpg) top left no-repeat;
+	position: relative;
+	width: 1170px;
+	color: gold;
+	padding: 80px 0% 80px 25px;
+	margin: auto;
+	border: 3px black outset
+}
+
+nav {
+	background-color: rgba( 255 255, 255, .3)
+
+}
+nav a {
+	text-decoration: none;
+	color: gold
+}
+
+ nav ul li {
+	font-size: 100%;
+	float:left;
+	text-align: center;
+	width: 9%;
+	position: relative;
+	list-style: none;
+	margin: auto;
+	margin-bottom:16px;
+	
+	color: gold;
+	padding: 3.5%
+}
+
+body {
+	background: black url(../photos/calmgriptape.jpg) top left;
+}
+
+#goldinfo {
+	color: gold;
+	clear: left;
+	width: 80%;
+	margin: auto;
+}
+
+p, footer {
+	text-align: center
+}
+
+footer {
+	background-color: #FAAC58;
+	margin: auto;
+}
